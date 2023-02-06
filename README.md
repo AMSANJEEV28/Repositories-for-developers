@@ -32,4 +32,8 @@
     https://github.com/wesbos/JavaScript30
 
 10. clean-code-javascript
+<<<<<<< HEAD
     https://github.com/ryanmcdermott/clean-code-javascript
+=======
+    https://github.com/ryanmcdermott/clean-code-javascript
+>>>>>>> c1ba05ac6f5f6c37d7186bea62fd27fb9dfeb580
